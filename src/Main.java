@@ -19,14 +19,5 @@ public class Main {
         korotyshka3.run();
         znayka.tell();
 
-        System.out.println(TypeOfLight.Dark.getName());
-
-        System.out.println("Check");
-//      System.out.println(room.getName()+" напоминает по своему виду"+Ship.getName());
-
-//       public void seeLike(){
-//           System.out.println("Предмет напомнил)");
-//
-//    }
     }
 }
